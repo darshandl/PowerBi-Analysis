@@ -75,4 +75,3 @@ This dashboard is built for educational and analytical use. All visualizations a
 If you liked this project or have questions:
 - 📧 **[Email](mailto:lakhankiyadarshan32@gmail.com)**
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/darshan.lakhankiya/)**
-- 📊 **[More Dashboards](https://public.power bi.com/app/profile/darshan.lakhankiya)**
