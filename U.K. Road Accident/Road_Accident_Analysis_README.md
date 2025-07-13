@@ -3,9 +3,6 @@
 
 This interactive Power BI dashboard provides a comprehensive overview of road accident data, helping stakeholders analyze trends, assess risks, and make informed decisions to enhance road safety.
 
-> 🔗 **[View Live Dashboard](#)** *(Insert Power BI Public link here)*  
-> 👤 **[My Power BI Profile](https://public.power bi.com/app/profile/darshan.lakhankiya)**
-
 ---
 
 ## 📝 Project Overview
@@ -64,18 +61,6 @@ To create an actionable, intuitive dashboard that helps:
 - Identify key risk factors for road incidents
 - Allocate safety resources more effectively
 - Reduce future accident and casualty rates
-
----
-
-## 🖼️ Screenshot
-
-![Road Accident Dashboard Overview](./Road_Accident_Analysis.jpg)
-
----
-
-## 📁 Dataset Source
-
-> *Note: Please include your data source details if publicly available.*
 
 ---
 
