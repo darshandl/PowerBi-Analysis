@@ -1,6 +1,6 @@
 # ☕ Coffee Sales Analysis Dashboard (Power BI)
 
-📍 **Public Link**: [View Live Dashboard](https://app.powerbigov.us/groups/me/reports/1f856d4e-2114-4900-8f1a-5c5fc6f2c2b7/b0848fbaf71c8ebd216a?ctid=9ce0de61-9857-49a2-b40c-3a9cb9f8f4dc&clientSideAuth=0)
+📍 **Public Link**: [View Live Dashboard](https://app.powerbigov.us/view?r=eyJrIjoiMTE0ZGNhYTktNWJlYS00MGZkLWE3MmItMDU0YTVlYjMyODk5IiwidCI6IjljZTBkZTYxLTk4NTctNDlhMi1iNDBjLTNhOWNiOWY4ZjRkYyJ9)
 
 ## 📌 Overview
 
