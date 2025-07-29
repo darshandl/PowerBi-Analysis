@@ -7,3 +7,6 @@ It is currently in progress. I found so many other things to add.
 
 
 Sorry for the delay.
+
+
+** Actually, I am preparing for the PL - 300 Exam Certification.**
